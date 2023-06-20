@@ -3,11 +3,11 @@
 /**
  * add - adds two integers and returns the result
  * @n1: The first numbers to be computed
- * @n2: The sec num to be computed
- * Return: Inter value
+ * @n2: The second number to be computed
+ * Return: Integer value
  */
 
-int add(int n1, n2)
+int add(int n1, int n2)
 {
 return (n1 + n2);
 }

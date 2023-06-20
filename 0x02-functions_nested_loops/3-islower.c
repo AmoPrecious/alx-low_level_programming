@@ -1,0 +1,16 @@
+#include "main"
+
+/**
+ * _islower - Checks for lowercase character
+ * @c: The character to be checked 
+ * Return: 1 lowercase or 0 anything else
+ */
+
+int _is lower(int c)
+{
+if (c >= 97 && c <= 122)
+{
+return (1);
+}
+return (0);
+}

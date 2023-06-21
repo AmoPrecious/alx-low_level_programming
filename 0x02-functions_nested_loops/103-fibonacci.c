@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** main - prints the sum of Eve Fibonacci numbers
+/** main - prints the sum of the even-valued terms,
  * less than 4000000
  * Return: Nothing!
  */

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** main - prints the sum of the even-valued terms,
+/** main -Entry point
  * less than 4000000
  * Return: Nothing!
  */

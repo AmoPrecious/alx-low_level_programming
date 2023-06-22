@@ -2,14 +2,15 @@
 
 /**
  * _supper - uppercase letters
- * @c: char to check
+ * @x: char to check
  *
  * Return: 0 or 1
  */
-int _supper(int c)
+int _supper(int x)
 {
-if (c >= 'A' && c <= 'Z')
+if (x >= 65 && x <= 90)
+{
 return (1);
-else
+}
 return (0);
 }
